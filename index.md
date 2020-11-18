@@ -1,6 +1,4 @@
-## Sensory Hacking 101 Webinar Resources
 
-### Resources from webinar
 
 1. [Scott Novich's PhD thesis](https://scholarship.rice.edu/handle/1911/88379) _for going more in depth on the framework_
 2. [Khan academy video on Pacinian receptors](https://www.youtube.com/watch?v=IW8OnV8J2Qw) _great overview_
